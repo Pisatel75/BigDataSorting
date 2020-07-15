@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.761,C:\Users\vibro\Desktop\Delphi 10.4\Sort\SortDataFile.dproj=C:\Users\vibro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.566,=C:\Users\vibro\Desktop\Delphi 10.4\Sort\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.600,C:\Users\vibro\Desktop\Delphi 10.4\Sort\Unit1.pas=C:\Users\vibro\Desktop\Delphi 10.4\Sort\TThreadUnit.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.794,C:\Users\vibro\Desktop\Delphi 10.4\Sort\Unit1.pas=C:\Users\vibro\Desktop\Delphi 10.4\Sort\GlobalVar.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.761,C:\Users\vibro\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\vibro\Desktop\Delphi 10.4\Sort\SortDataFile.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.253,=C:\Users\vibro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.220,C:\Users\vibro\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\vibro\Desktop\Delphi 10.4\Sort\SortUnit.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.220,C:\Users\vibro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\vibro\Desktop\Delphi 10.4\Sort\SortUnit.dfm</Transaction>
     <Transaction>1899.12.30 00:00:00.000.593,=C:\Users\vibro\Desktop\Delphi 10.4\Sort\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.600,C:\Users\vibro\Desktop\Delphi 10.4\Sort\TThreadUnit.pas=C:\Users\vibro\Desktop\Delphi 10.4\Sort\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.253,=C:\Users\vibro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.220,C:\Users\vibro\Desktop\Delphi 10.4\Sort\SortUnit.pas=C:\Users\vibro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.794,C:\Users\vibro\Desktop\Delphi 10.4\Sort\GlobalVar.pas=C:\Users\vibro\Desktop\Delphi 10.4\Sort\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.220,C:\Users\vibro\Desktop\Delphi 10.4\Sort\SortUnit.dfm=C:\Users\vibro\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
   </Transactions>
 </BorlandProject>
